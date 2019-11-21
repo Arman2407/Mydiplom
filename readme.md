@@ -1,3 +1,10 @@
+## Для работы использовал: 
+- Laravel 6.5
+- Open Server
+- PHP 7.3
+- MySQL 5.7
+Создание миграций, контроллеров и моделей выполнялись через php artisan
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
